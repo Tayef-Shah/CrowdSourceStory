@@ -3,15 +3,15 @@ A web app that will allow a group of upto 12 users to collaboratively decide upo
 
 ## Overview of the Application
 
-[Starting a Story Room](starting-a-story-room)
+[Starting a Story Room](#starting-a-story-room)
 
-[Joining a Story Room](joining-a-story-room)
+[Joining a Story Room](#joining-a-story-room)
 
-[Using the Chat Box](using-the-chat-box)
+[Using the Chat Box](#using-the-chat-box)
 
-[Playing a Round](playing-a-round)
+[Playing a Round](#playing-a-round)
 
-[Reading and Sharing a Story](reading-and-sharing-a-story)
+[Reading and Sharing a Story](#reading-and-sharing-a-story)
 
 ## Starting a Story Room
 There are two types of story rooms, public and private. Anyone can join a public story room, whereas anyone with a specific room key may join a private story room.
