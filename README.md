@@ -1,14 +1,19 @@
-#Crowd Source Story Builder
+# Crowd Source Story Builder
 A web app that will allow a group of upto 12 users to collaboratively decide upon words to fit into a story template.
 
-##Overview of the Application
+## Overview of the Application
+
 [Starting a Story Room](starting-a-story-room)
+
 [Joining a Story Room](joining-a-story-room)
+
 [Using the Chat Box](using-the-chat-box)
+
 [Playing a Round](playing-a-round)
+
 [Reading and Sharing a Story](reading-and-sharing-a-story)
 
-##Starting a Story Room
+## Starting a Story Room
 There are two types of story rooms, public and private. Anyone can join a public story room, whereas anyone with a specific room key may join a private story room.
 
 The owner of a story room must configure the following when starting a story room:
@@ -24,7 +29,7 @@ The owner of a story room must configure the following when starting a story roo
 
 Once configuartion is complete, the owner will be able to copy the room key. This room key will allow other users to enter this room.
 
-##Joining a Story Room
+## Joining a Story Room
 1. Enter a user name
 2. Set room type to public or private
 3. If you are joining a private story room, enter the room key where appropriate
@@ -34,17 +39,17 @@ Once configuartion is complete, the owner will be able to copy the room key. Thi
     - The room is full (Public rooms only)
     - The owner starts the first round (Private rooms only)
 
-##Using the Chat Box
+## Using the Chat Box
 Users can freely use the chat box in the story room lobby and during story building rounds. Once the first round begins, any messages that were sent while in the lobby will be deleted.
 
-##Playing a Round
+## Playing a Round
 1. The application displays what type of word is needed, and any automatically generated suggestions.
 2. Users must vote on suggestions from a list or type in their own suggestions. Typing in a suggestion that is identical to an already existing suggestion will add a vote to that suggestion.
 3. Once the time limit of the round is reached the word with the highest number of votes is inserted into the story. Any ties will be broken randomly.
 
 Note: Currently there is no idea of how to ensure the users typed in the correct type of word.
 
-##Reading and Sharing a Story
+## Reading and Sharing a Story
 Once all the blanks in the story are filled in, the application will display the story for all users to read. A user can then share a story using a sharing link provided at the top of the story.
 
 Note: Future implementation of the application may only allow sharing links to expire within a set amount of time.
