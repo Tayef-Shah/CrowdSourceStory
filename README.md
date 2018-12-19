@@ -1,7 +1,7 @@
 # Crowd Source Story Builder
 A web app that will allow a group of upto 12 users to collaboratively decide upon words to fit into a story template.
 
-## Overview of the Application
+## Brief Overview of Application Features
 
 [Starting a Story Room](#starting-a-story-room)
 
